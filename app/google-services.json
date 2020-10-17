@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "612604698528",
+    "firebase_url": "https://broccoli-camera.firebaseio.com",
+    "project_id": "broccoli-camera",
+    "storage_bucket": "broccoli-camera.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612604698528:android:0e56705c483f2304534ec5",
+        "android_client_info": {
+          "package_name": "com.example.cameraedit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612604698528-gm52kh6ppjc28kkrrkm17263v9i4ic4i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkQ_AK60_KraBD_7gRe84UXUk3lViGVis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612604698528-gm52kh6ppjc28kkrrkm17263v9i4ic4i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
